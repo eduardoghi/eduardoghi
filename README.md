@@ -10,7 +10,7 @@ automation.
 **Claude Code**
 - [reverse-engineering-skills](https://github.com/eduardoghi/reverse-engineering-skills): Skills and command-line tools for decompiling, binary diffing, patching and unpacking installers, such as `bpl-xref`, `inno-unpack` and `nsis-script`.
 - [dev-skills](https://github.com/eduardoghi/dev-skills): Plugin with hooks that catch mistakes that keep slipping through reviews of code written with AI help.
-- [fl-studio-skills](https://github.com/eduardoghi/fl-studio-skills): Skills and helper scripts for producing music in FL Studio.
+- [music-production-skills](https://github.com/eduardoghi/music-production-skills): Skills and tools for producing and checking music, driving REAPER through a bridge and command line, with the FL Studio tools kept for older projects.
 
 **Senior ERP**
 - [documentacao-senior](https://github.com/eduardoghi/documentacao-senior): Independent documentation, troubleshooting and Oracle SQL for the Senior ERP, in Portuguese.
