@@ -6,6 +6,7 @@ automation.
 **Desktop apps**
 - [Kavynex](https://github.com/eduardoghi/kavynex): Archives YouTube channels with comments and live chat for offline playback. Tauri, React and Rust.
 - [Rigelcam](https://github.com/eduardoghi/rigelcam): Live view and recordings for Intelbras and Dahua NVRs without the vendor SDK. Rust, Qt 6 and GStreamer.
+- [RabbitDock](https://github.com/rabbitdock/rabbitdock): Modular desktop app for Windows and Linux, in early development. Electron, React and TypeScript.
 
 **Claude Code**
 - [reverse-engineering-skills](https://github.com/eduardoghi/reverse-engineering-skills): Skills and command-line tools for decompiling, binary diffing, patching and unpacking installers, such as `bpl-xref`, `inno-unpack` and `nsis-script`.
